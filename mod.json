@@ -9,7 +9,7 @@
     "name": "Skill Issue Roaster",
     "developer": "bwompbwompbwomp",
     "description": "Roasts you with a new passive-aggressive message every time you die.",
-    "repository": "",
+    "repository": "https://github.com/BwompBwompBwomp/skill-issue-roaster",
     "tags": ["utility", "interface", "qol", "fun"],
     "settings": {
         "show-overlay": {
