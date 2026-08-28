@@ -1,0 +1,22 @@
+{
+    "geode": "5.9.0",
+    "gd": {
+        "mac": "2.2081",
+        "win": "2.2081"
+    },
+    "version": "v1.0.0",
+    "id": "bwomp.skill-issue-roaster",
+    "name": "Skill Issue Roaster",
+    "developer": "bwompbwompbwomp",
+    "description": "Roasts you with a new passive-aggressive message every time you die.",
+    "repository": "",
+    "tags": ["utility", "interface", "qol", "fun"],
+    "settings": {
+        "show-overlay": {
+            "name": "Show roasts",
+            "description": "Show death roasts on the play screen.",
+            "type": "bool",
+            "default": true
+        }
+    }
+}
