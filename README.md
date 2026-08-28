@@ -4,11 +4,9 @@ Every time you die in Geometry Dash, you get a fresh passive-aggressive roast, c
 
 ## Features
 
-- 20 rotating one-liners, never the same roast twice in a row
+- 20 roasts
 - Your death percent is baked into several of the roasts
 - Bounce-in pop animation at the moment of death, cleared on respawn
-- Silent on noclip near-misses — only genuine deaths get roasted
-- No message on level completion (you earned that one)
 - Toggleable overlay in the mod settings
 
 ## Installation
