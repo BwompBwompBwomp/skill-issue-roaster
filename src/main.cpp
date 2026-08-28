@@ -13,9 +13,9 @@ constexpr std::array<char const*, 20> kRoasts{
     "Skill issue.",
     "Have u considered being good",
     "{:.0f}% never stood a chance",
-    "The checkpoint was right there",
+    "The spike was right there",
     "That death was {:.0f}% avoidable",
-    "practice mode is free. use it",
+    "practice mode is included in this game. use it",
     "{:.0f}% and a dream. nothing more",
     "Genuinely impressive failure rate",
     "ur icon is fine. ur not.",
@@ -23,13 +23,13 @@ constexpr std::array<char const*, 20> kRoasts{
     "Have you tried the other button",
     "That one is on the level fr",
     "67%? okay that was just mean",
-    "L. rubber-stamped.",
+    "L.",
     "you jumped a little too much",
     "{:.0f}% fumbled",
     "try holding instead of tapping eh",
     "velocity is not your friend rn",
     "skill diff revealed at {:.0f}%",
-    "mum says quit and go do homework",
+    "just go touch grass my guy",
 };
 
 size_t s_deathIdx = 0;
